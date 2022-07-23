@@ -2,7 +2,7 @@
     <img heigth=70 width=170 src="https://onmyowntechnology.com/omotec/omotec_logo.png">
 </p>
 
-## Hi,
+# Hi,
 ### AVM stundets
 
 1. Please use the files in this repo as reference.
@@ -23,7 +23,7 @@ The reason we want to use an editor is to use the extensive features provided by
 
 <hr style="height:2px;">
 <p align="center">
-    <img src="images/setup_image.png" alt="Drawing" style="width: 500px;" align="center"/>
+    <img width = 500 src="images/setup_image.png" alt="Drawing" />
 </p>
 <hr style="height:2px;">
 
@@ -37,7 +37,10 @@ Setting up python is a very easy process all you need to do is download the inst
 
 *Windows user please note to check the box which says 'add to path' when the installer is launched as highlighted in the below image*
 
-<img src="images/python_add_path.png" alt="Drawing" style="width: 500px;" align="center"/>
+
+<p align="center">
+    <img width = 500 src="images/python_add_path.png" alt="Drawing" />
+</p>
 
 <hr style="height:2px;">
 
@@ -46,7 +49,7 @@ Setting up python is a very easy process all you need to do is download the inst
 
 ### Setting up VS code
 
-Visual studio code is a popular editor by microsoft. It supports majority of the programming langauages. it also some with an extension store where we can install add on to help us customize the look and the features. Again it requires you to have python installed and working. Please follow the steps in jupyter notebook installation to check if python is installed and working properly.
+Visual studio code is a popular editor by microsoft. It supports majority of the programming langauages. it also some with an extension store where we can install add on to help us customize the look and the features. Again it requires you to have python installed and working.
 
 
 #### Follow the below steps to install and setup VS code.
@@ -54,6 +57,9 @@ Visual studio code is a popular editor by microsoft. It supports majority of the
 1. Download the installer using the following link. <a href=https://code.visualstudio.com/> VS code </a>
 2. Run the installer and follow the on screen instruction. keep all the default settings.
 3. once the first 3 steps are completed follow the below video to setup Vs code for python. *if not visible go to the videos folder*
+
+
+<video src='videos/vs_code_setup.mp4' width = 700></video>
 
 https://github.com/rejin-omotec/AVM-DD/blob/master/videos/vs_code_setup.mp4
 
