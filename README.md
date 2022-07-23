@@ -33,9 +33,9 @@ The reason we want to use an editor is to use the extensive features provided by
 
 ### Setting up Python
 
-Setting up python is a very easy process all you need to do is download the installer from the <a href=https://www.python.org/downloads/>official website</a> 
+Setting up python is a very easy process all you need to do is download the installer from the <a href=https://www.python.org/downloads/>official website</a>
 
-##### *Windows user please note to check the box which says 'add to path' when the installer is launched as highlighted in the below image*
+*Windows user please note to check the box which says 'add to path' when the installer is launched as highlighted in the below image*
 
 <img src="images/python_add_path.png" alt="Drawing" style="width: 500px;" align="center"/>
 
@@ -56,7 +56,8 @@ Visual studio code is a popular editor by microsoft. It supports majority of the
 3. once the first 3 steps are completed follow the below video to setup Vs code for python. *if not visible go to the videos folder*
 
 <hr style="height:2px;">
-<video controls src="videos/vs_code_setup.mp4" width="700">
+<video controls width="700">
+    <source src="videos/vs_code_setup.mp4" type = video/mp4>
 </video>
 <hr style="height:2px;">
 
