@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://onmyowntechnology.com/omotec/omotec_logo.png">
+    <img heigth=70 width=170 src="https://onmyowntechnology.com/omotec/omotec_logo.png">
 </p>
 
 ## Hi,
@@ -22,7 +22,58 @@ There are multiple ways in which we can set up your computer to code in python. 
 The reason we want to use an editor is to use the extensive features provided by them which include code auto completion, easy to run and see output and many more..
 
 <hr style="height:2px;">
+<p align="center">
+    <img src="images/setup_image.png" alt="Drawing" style="width: 500px;" align="center"/>
+</p>
+<hr style="height:2px;">
 
-<img src="images/setup_image.png" alt="Drawing" style="width: 500px;" align="center"/>
+
+<br>
+<br>
+
+### Setting up Python
+
+Setting up python is a very easy process all you need to do is download the installer from the <a href=https://www.python.org/downloads/>official website</a> 
+
+##### *Windows user please note to check the box which says 'add to path' when the installer is launched as highlighted in the below image*
+
+<img src="images/python_add_path.png" alt="Drawing" style="width: 500px;" align="center"/>
 
 <hr style="height:2px;">
+
+<br>
+<br>
+
+### Setting up VS code
+
+Visual studio code is a popular editor by microsoft. It supports majority of the programming langauages. it also some with an extension store where we can install add on to help us customize the look and the features. Again it requires you to have python installed and working. Please follow the steps in jupyter notebook installation to check if python is installed and working properly.
+
+
+#### Follow the below steps to install and setup VS code.
+
+1. Download the installer using the following link. <a href=https://code.visualstudio.com/> VS code </a>
+2. Run the installer and follow the on screen instruction. keep all the default settings.
+3. once the first 3 steps are completed follow the below video to setup Vs code for python. *if not visible go to the videos folder*
+
+---
+<video controls src="videos/vs_code_setup.mp4" width="700">
+
+
+<hr style="height:2px;">
+
+<br>
+<br>
+
+
+#### Accessing Jupyter notebook inside VS code
+
+once VS code is installed and setup. We can directly use the jupyter notebook enviornment provided by VS code.
+
+1. Create a new file.
+2. From the dropdown select Jupyter notebook.
+3. Try writing a single line of code 
+```python
+print("Hello world")
+```
+4. Use `Shift + Enter` to run the code cell.
+5. A prompt will appear asking you to install the jupyter extension. Click yes to accept. *It usualy take about 5 min it to get installed*
