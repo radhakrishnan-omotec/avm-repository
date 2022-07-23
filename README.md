@@ -55,19 +55,17 @@ Visual studio code is a popular editor by microsoft. It supports majority of the
 2. Run the installer and follow the on screen instruction. keep all the default settings.
 3. once the first 3 steps are completed follow the below video to setup Vs code for python. *if not visible go to the videos folder*
 
----
+<hr style="height:2px;">
 <video controls src="videos/vs_code_setup.mp4" width="700">
-
-
+</video>
 <hr style="height:2px;">
 
 <br>
 <br>
 
+## Accessing Jupyter notebook inside VS code
 
-#### Accessing Jupyter notebook inside VS code
-
-once VS code is installed and setup. We can directly use the jupyter notebook enviornment provided by VS code.
+Once VS code is installed and setup. We can directly use the jupyter notebook enviornment provided by VS code.
 
 1. Create a new file.
 2. From the dropdown select Jupyter notebook.
