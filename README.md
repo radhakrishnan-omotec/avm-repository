@@ -58,10 +58,9 @@ Visual studio code is a popular editor by microsoft. It supports majority of the
 2. Run the installer and follow the on screen instruction. keep all the default settings.
 3. once the first 3 steps are completed follow the below video to setup Vs code for python. *if not visible go to the videos folder*
 
-
-<video src='videos/vs_code_setup.mp4' width = 700></video>
-
-https://github.com/rejin-omotec/AVM-DD/blob/master/videos/vs_code_setup.mp4
+<p align="center">
+    <img width = 800 src="videos/vs_code_setup.gif" alt="Drawing" />
+</p>
 
 <br>
 <br>
