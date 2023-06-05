@@ -23,7 +23,7 @@ The reason we want to use an editor is to use the extensive features provided by
 
 <hr style="height:2px;">
 <p align="center">
-    <img width = 500 src="https://github.com/radhakrishnan-omotec/avm-repository/raw/master/images/setup_image.png)" alt="Drawing1" />
+    <img width = 500 src="https://github.com/radhakrishnan-omotec/avm-repository/raw/master/images/setup_image.png)" alt="Drawing" />
 </p>
 <hr style="height:2px;">
 
