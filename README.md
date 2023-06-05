@@ -23,7 +23,7 @@ The reason we want to use an editor is to use the extensive features provided by
 
 <hr style="height:2px;">
 <p align="center">
-    <img width = 500 src="images/setup_image.png" alt="Drawing" /> ![](images/setup_image.png)
+    <img src="images/setup_image.png" alt="Drawing" width="800" />
 </p>
 <hr style="height:2px;">
 
