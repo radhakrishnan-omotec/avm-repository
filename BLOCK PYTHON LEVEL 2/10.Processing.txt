@@ -1,0 +1,178 @@
+SESSION - 10
+PROCESSING
+
+2
+Learning Outcomes:
+
+Remember: The students will recall about the libraries learnt .
+
+Understand: They will focus on understanding the use of a Processing Library .
+Apply: They will learn to apply Processing Library for drawing shapes.
+
+Analyze: They will check their understanding by developing a code .
+
+Create: They will create the code in EduBlocks
+PROCESSING IN PYTHON
+
+Remember & Understanding
+
+Processing is a free graphical library and integrated development environment (IDE)
+built for the electronic arts, new media art, and visual design communities with the
+
+purpose of teaching non-programmers the fundamentals of computer programming in
+
+a visual context.
+
+Processing uses the Java language, with additional simplifications such as additional
+
+classes and aliased mathematical functions and operations. It also provides a
+
+graphical user interface for simplifying the compilation and execution stage.
+
+Remember & Understanding PROCESSING IN PYTHON
+
+Used to set size of output screen.
+
+Used to set background colour of output screen.
+
+Used to run/process the created program.
+
+On My Own TECHNOL
+
+Used to set colour mode(BW/RGB).
+
+Used to set Draw line. Takes 4 parameters(x,y,x1,y1)
+
+al
+PROCESSING IN PYTHON |
+
+Used to draw circle/ellipse. Takes 4
+parameters(x,y,width,height).
+
+Used to fill shape with colour. Takes 3 parameters(r,g,b).
+
+Apply &
+Create
+
+TASK 01:-
+
+</> WRITE A CODE TO DRAW THE SHAPES
+USING PROCESSING
+
+® Import processing from the
+
+Import block
+
+# Start code here
+
+from processing import *
+
+Define the setup function
+and Put the size and
+background block from the
+processing
+
+# Start code here
+
+Trom processing mmport *
+
+Define the setup function
+and Put the Line and fill block
+from the processing
+
+# Start code here
+
+from processing import *
+
+size( () &. 200
+backgroundt @) ©) - r 200 t 200 } )
+
+o GD: o@>
+
+* Put the ellipse and fill block
+from the processing and
+also the rect block with all
+the dimensions
+
+from processing import *
+
+size( ©) &). 300
+backgrounat @) © 5 t 200 } 5 }
+
+® Create a variable of i
+® and now take the run block
+
+from the processing int ©@.0O @>
+
+moo@m@M @®.—d:
+on @.O © ©
+fill e2o@. eS. fo Re
+
+run()
+
+ACTIVITY SHEETS
+
+Question 1:
+
+Size block is used for
+
+A.
+B.
+C.
+D.
+
+To change the size
+To set the size
+
+To vary the Size
+None of the above
+
+Question 2:
+
+“noFill()” block is used for ;
+
+A.
+B.
+C.
+D.
+
+Create hollow shapes
+Create filled shapes
+Creating shaded shapes
+None of the above
+
+Question 3:
+
+How many parameters “triangle()” block required?
+
+A. 4
+B. 3
+C. 8
+D. 6
+
+Question 4:
+
+What is the function of “run()” block?
+
+A.
+B.
+C.
+D.
+
+To start code
+
+To end code
+
+To run the processing code
+None of the above
+
+Question 5:
+Can we use size block outside setup?
+
+\
+
+A. Yes
+B. No
+
+Homework
+

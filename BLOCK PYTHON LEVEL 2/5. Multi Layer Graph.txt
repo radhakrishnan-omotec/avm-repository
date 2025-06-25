@@ -1,0 +1,159 @@
+SESSION - 5
+MULTI LAYER GRAPH
+
+2
+Learning Outcomes:
+
+Remember: The students will recall about Coordinate System .
+Understand: They will focus on understanding :
+- Different types of graph
+- Multi layer representation
+- Data Handling
+Apply: They will learn to apply the Library - pygal to generate graphs in the output .
+Analyze: They will check their understanding by developing a code .
+
+Create: They will create the code in EduBlocks
+
+Remember & Understanding | [YI] U LTI-LAYER G RAPH
+
+In Multilevel Graph, each layer of the graph is a subset of the original network (nodes and
+intra-edges)
+The inter-edges only connect the same nodes on different layers.
+
+————— _ -LINE GRAPHS
+
+Amanda's Trip te Washington DC
+
+u 8
+
+r
+bs
+
+r
+N
+
+o 8 8 @ |
+
+AM AM 4M PM PM FM BM
+
+cars
+o 4 8 2
+
+Apply &
+Create
+
+TASK 01:-
+
+</> WRITE A CODE TO CREATE A LINE GRAPH
+
+© 6
+
+Variables
+
+Statements
+
+Text
+
+Math
+
+Logic
+
+/~
+
+On My Own TE
+
+import pygal
+
+Text
+
+Math
+
+# Start code here
+
+Logic - -
+My awesome chart import pygal
+
+Lists
+
+© 68
+
+Loaps
+
+06
+
+Definitions - . .
+green blue
+
+Turtle
+
+© 68
+
+06
+
+Text
+
+Math
+
+Logic
+
+Lists
+
+Loaps
+
+Definitions
+
+Turtle
+
+"My awesome chart
+
+# Start code here
+
+import pygal
+
+“Marks”
+
+import
+
+Loops
+
+OQ Definitions
+
+Turtle
+
+# Start code here Code
+
+import
+“Marks
+“amit rm. ©. &
+“Suhani re. Go, 6
+
+“shubham: ?. &n. E
+
+# Start code here Cade
+
+"Marks .
+“amit 34 65 88
+“Suhani_ 56 65 a7
+“Shubham_ 66 71 a8
+
+“English . “Maths” “Science
+
+Code Output
+
+—® Suhani
+@- Shubham
+
+Plot the graph for the following data
+
+eon Economic Area (Mha) Crop production (Mt)
+produce 2010/11 | 2020/21 | 2030/31)|2010/11)|2020/21| 2030/31
+Rice Foodgrains 42.9 48.1 50.3 96.0 109.9 123.2
+Wheat Foodgrains 29.1 33.7 36.6 87.0 108.2 121.1
+Sukuad Foodgrains 7.4 5.2 3.4 7.0 6.0 5.7
+Bajra Foodgrains 9.6 9.3 8.8 10.4 11.4 12.3
+Maize Foodgrains 8.6 8.4 9.0 21.7 24.8 28.3
+Other cereals | Foodgrains 2.9 2.1 1.5 4.6 3.9 3.8
+Gram Foodgrains 9.2 89 8.7 B.2 8.4 8.6
+Tur (Arhar) Foodgrains 44 4.4 4.7 2.9 3.1 3.3
+Lentil (Masur) | Foodgrains 1.6 17 1.9 0.9 1.2 1.4
+Other pulses Foodgrains 11.2 12.8 13.2 6.2 6.3 6.8

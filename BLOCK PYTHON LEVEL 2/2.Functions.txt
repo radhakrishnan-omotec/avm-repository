@@ -1,0 +1,291 @@
+SESSION - 2
+FUNCTIONS
+
+2
+Learning Outcomes:
+
+Remember: The students will recall about previous concepts - libraries .
+
+Understand: They will focus on understanding what is a function , how to create a function and
+
+how to calla function .
+Apply: They will learn to apply the concept of Functions on multiple programs .
+Analyze: They will check their understanding by developing a code .
+
+Create: They will create the code in EduBlocks
+Remember & Understanding FU NCTIONS
+
+@ A function is a block of organized, reusable code that you can use over and over again, rather
+than writing it out multiple times.
+
+@ Functions enable programmers to break down or decompose a problem into smaller parts, each
+of which performs a particular task.
+
+@ A function is a block of code which only runs when it is called.
+
+ws
+
+STEPS USING FOR FUNCTION
+
+1.Creating/Defining a function moots
+In Python, a function is defined using
+the ‘def keyword:
+
+Variables
+
+Remember & Understanding
+
+Apply &
+Create
+
+TASK 01:-
+
+</> WRITE A CODE TO PRINT YOUR NAMES 10
+TIMES USING FUNCTIONS
+
+Text Code
+
+Math function_name |
+
+Name):
+; Name
+Logic
+
+Lists
+
+Loops
+
+1.Create a function with ‘name’
+
+function_name
+
+/-
+
+Code
+
+Imports
+(=) Variables Hallo World — —_—
+Name } (§ }
+Omotec
+Text
+
+2.inside function print your name
+
+Name Name ():
+
+print("Ometec")
+
+print( } in range(10):
+
+Name( )
+
+for i * imrange{ e@ Er
+
+for i* inrange( ® @ »:
+
+for i 7 imrange{ ece@. @:
+
+3.use loop for 10 times, to call
+function and call the functions
+
+OMO
+
+Powered by @) trinket
+Omotec
+
+Omotec
+Omotec
+Omotec
+Omotec
+Omotec
+Omotec
+Omotec
+Omotec
+Omotec
+
+Apply &
+Create
+
+TASK 02:-
+
+</> CREATE A FUNCTION TO TAKE USER INPUT
+THEIR NAME AND CONTACT NUMBER AND
+DISPLAY THE FUNCTION
+
+1.Create 2 variables
+to take user name
+
+and number a ih
+2.Create a function —_— = OF nuns «
+- ‘data’
+
+3.Call the function
+with argument
+(name and
+number)
+
+On My Own TECHNOLOGY
+
+(NUMBER) )
+
+NUMBER ( (
+(Names, NUMBER)
+
+i ees ee
+OULU)
+
+Powered by @) trinket
+Enter your name? sfdedgh
+
+Enter your number 5676855
+Your Name is:sfdgdgh,Your Number is :5676859
+
+Apply &
+Create
+
+TASK 03:-
+
+</> WRITE A PROGRAM TO DO ARITHMETIC
+OPERATIONS USING FUNCTIONS
+
+1. Create a function
+with an argument
+
+2. Inside function
+compare the
+operator chosen by
+the user,
+accordingly
+perform the action.
+
+print( Answer *
+
+printt Answer *
+
+e Create 3 variables:
+Oo Noland No2- to
+store numbers
+O Op-to store the
+operation
+e For all 3 variables,
+ask user to enter the
+values
+@ Call the operation
+function
+
+Enter your choice
+
+Operations
+
+Operations
+
+Enter the no 1
+
+Enter the no 2
+
+Enter your choice
+
+Operations
+
+def Operations(op):
+
+print(
+if ==
+/
+print ( )
+while
+= int(input(
+= int(input(
+print (
+= int(input¢
+Operations (op)
+
+Powered by @}trinket
+Enter the no 1 45
+
+Enter the mo 2 56
+Enter the operations:
+Addition-1
+Subtraction-2
+Multiplication-3
+Divisian-4
+
+Enter your choice 1
+161
+
+Enter the no 1 6
+Enter the mo 2 &
+Enter the operations:
+Addition-1
+Subtraction-2
+Multiplication-3
+Division-4
+
+Enter your choice 3
+43
+
+Enter the no 1
+ACTIVITY SHEETS
+
+Question 1:-
+
+What is a Function?
+
+A. block of code which only runs when it is called.
+B. block of code which runs when code starts
+
+C. block of code which runs forever
+
+D
+
+none of the above
+
+Question 2:-
+
+Which keyword we use to create a function?
+
+A.
+B.
+C.
+D.
+
+def func_name():
+
+c. def func_name();
+def ():
+d. def ();
+
+Question 3:
+
+Find the error in the below code?
+
+def my_function():
+print(Hello from a function)
+my_function()
+
+Question 4:-
+
+What is an argument in a function?
+
+A.
+B.
+C.
+D.
+
+Information can be passed into functions
+data can be passed into functions
+Numeric Data
+
+None of the above
+
+Question 5:
+Which instruction we use in a function to get the value out?
+?
+\
+A. Pass
+B. Break
+C. Return
+D. None of the above
+
+Homework
+

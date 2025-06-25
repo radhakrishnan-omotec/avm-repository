@@ -1,0 +1,172 @@
+SESSION - 4
+QUIZ GAME
+
+2
+Learning Outcomes:
+
+Remember: The students will recall about variables, if-else and print statements .
+
+Understand: - They will focus on understanding the core concept of if-else to code a Quiz Game
+
+- They will focus on understanding the logic of Percentage Calculation
+Apply: - They will learn to apply the concepts (variables, if-else, print)for coding the Quiz Game.
+- They will make for the Percentage formula
+Analyze: They will check their understanding by developing a code .
+
+Create: They will create the code in EduBlocks
+ACTIVITY DESCRIPTION
+
+* Create a Quiz game with questions and 4 options. Remember & Understanding
+* Store the correct answer given
+* calculate percentage and display
+
+Percentage calculation:
+® part= score points
+® whole= total number of questions
+
+part”
+
+— 0O
+whole RO =
+
+Apply &
+Create
+
+TASK 01:-
+
+</> WRITE A CODE TO CREATE A QUIZ GAME
+
+1.Create 2 Variables
+Score- for keeping score for correct answer
+Ans- To store answer given by user
+Percentage- to store percentage value
+2.Display question and options
+3.Add minimum 5 questions in the same manner
+Percentage:
+4.Create a percentage variable
+5.Use math block for multiplication and division
+6.Use concatenation to join different words and variables to print.
+Percentage:
+@ Create a percentage variable
+e@ Use math block for multiplication and division
+e Use concatenation to join different words and variables to print.
+# Start code here
+
+Percentage ¥
+
+Some * = * oO
+
+Score * += F &
+
+"eats 1.cricket\n2.hockey\n3.foctball\n4.badminton Jp
+
+On My Own TE
+
+what is the national game of india
+
+1.cricket\n2.hockey\n3.football\n4.badminton:
+
+Enter your choice
+
+what is the national fruit of india?
+
+d.mango\n2.apple\n3.banana\n4.pear
+
+Enter your choice
+
+On My Own Tc
+
+how many states are there in india?
+
+1.26\n2.28\n3.30\n4.29
+
+Enter your choice
+
+a — _ i i
+
+print(
+print(
+= int(input{
+if == 3:
++=
+print(
+print(
+
+= int(input{
+
+print(
+= int(input{
+if == ils
+
++=
+
+OMO
+mE C
+
+On My Own TECHNOLOGY
+
+print("how many states are there in india?
+print("1.26\n2.28\n3.30\n4.29")
+= int({input("Enter your choice"))
+4.
++= ]
+= / 4 * 100
+
++ str(
+
+print("Your Score is
+
+print("Your Percentage is
+
+Powered by ©)trinket
+
+what is thé national bird of india
+
+1.pigeon
+
+2..CPr OW
+
+3. peacock
+
+4.ostrich
+
+Enter your choice 3
+
+what is the national game ef india
+1.cricket
+
+2, hockey
+
+3. football
+
+4,badminton
+
+Enter your choice 1
+
+what is thé national fruit of india?
+1.mango
+
+2.apple
+
+3. banana
+
+4. pear
+
+Enter your choice 1
+
+how many states are there in india?
+1.26
+
+2.28
+
+3.36
+
+4,29
+
+Enter your choice 4
+
+Your Score is :3out of 4
+
+Your Percentage is :75.6
+Homework
+

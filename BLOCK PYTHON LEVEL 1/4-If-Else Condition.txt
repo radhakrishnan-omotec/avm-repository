@@ -1,0 +1,208 @@
+SESSION - 4
+IF-ELSE CONDITION
+
+Learning Outcomes:
+● Remember: The students will list different types of blocks being learnt in the session .
+● Understand: - They will focus on understanding the conditional statement - IF-ELSE
+● Apply: They will learn to apply and check the execution of the learnt statement
+
+● Analyze: They will check their understanding by developing a code.
+● Create: They will create the code in EduBlocks
+
+Remember & Understanding
+
+CONDITIONS
+
+If and else statement is basically used to compare the condition, then perform one task
+out of two.
+For example, if we want to make program to identify whether you are minor by age or
+not then we use if statement to compare the age.
+
+TYPES OF CONDITIONS
+
+Types of conditions
+
+If-then
+block
+
+If-else
+block
+
+If-else if
+block
+
+IF-THEN BLOCK
+⮚ If statement is the simplest decision-making statement.
+⮚ It is used to decide whether a certain statement or block of statements will
+be executed or not
+⮚ i.e. if a certain condition is true then a block of statement is executed
+otherwise not.
+
+IF-ELSE BLOCK
+⮚ A user can decide among multiple options. The if statements are executed
+from the top down.
+⮚ As soon as one of the conditions controlling the if is true, the statement
+associated with that if is executed, and the rest of the ladder is bypassed.
+⮚ If none of the conditions is true, then the final else statement will be
+executed.
+
+OPERATORS
+Operator
+s
+
+Equals
+
+Not
+Equals
+
+a == b
+
+a != b
+
+Less
+than
+
+Less
+than or
+equal to
+
+a<b
+
+Greater
+than
+
+a <= b
+
+Greater
+than or
+equal to
+
+a>b
+
+a >= b
+
+Apply & Create
+
+TASK 01:</> WRITE A PROGRAM TO COMPARE TWO
+GIVEN NUMBERS
+
+Program Step 1:-
+
+Create a variable and name it as ‘A’
+
+Program Step 2:-
+
+Initialize the "A" variable
+
+Program Step 3:-
+
+Store an int block to specify that input will be
+stored as an integer
+
+Program Step 4:-
+
+Add an input block to take input from the user
+
+Program Step 5:-
+
+Create another variable with name 'B' the same way to store the second number
+
+Program Step 6:Add an 'if' condition
+
+Program Step 7:-
+
+Add a comparison block to the 'if condition' to check what
+operation has user chosen
+
+Program Step 8:-
+
+Add the ‘A' value block to the left of the comparison block to compare the input
+given by user.
+Add the ‘B' value block to the right of the comparison block to compare the
+input given by user
+
+Program Step 9:Connect print "Hello World" block and change the
+text to “Both A and B are equal"
+
+Program Step 10:Take a ‘Else’ block from the Logic
+
+Program Step 11:-
+
+Program Step 12:Take a print
+hello world
+from the
+statement and
+connect it with
+else block and
+write both
+numbers are
+not equal
+
+Output
+
+Apply & Create
+
+TASK 02:-
+
+</> WRITE A PROGRAM TO COMPARE VALUES
+WITH PYTHON IF AND ELSE STATEMENT
+
+Program
+
+Output
+
+Apply & Create
+
+TASK 03:-
+
+</> WRITE A PROGRAM TO CHECK WHETHER
+THE PERSON IS ELIGIBLE FOR VOTING OR NOT
+
+Program
+
+Output
+
+ACTIVITY SHEETS
+
+Question:1
+Which python operator means ‘less than equal to’?
+
+A. <=
+B. >=
+C. ==
+D. !=
+
+Question:2
+What is the output of the following code if input is 16:
+
+A. Number is equal
+B. Number is not equal
+C. Number?
+D. None of the above
+
+Question:3 The result of this program:
+Friday = False
+if Friday:
+print "Jeans day!"
+else:
+print "Uniform day"
+A. Jeans day
+B. Uniform day
+C. Today is friday
+D. Not friday
+
+Question:4
+This operator means that one value is the same as the other value
+
+A. Equal to(=)
+B. Forward slash(\)
+C. Plus(+)
+D. Asterik(*)
+
+Question:5
+Which function is used to take the data from the user input
+
+Homework
+</> Make a program to take age and
+tell whether its infant or child or adult
+

@@ -1,0 +1,172 @@
+SESSION - 1
+INTRODUCTION
+TO
+PYTHON
+
+Learning Outcomes:
+● Remember: The students will list different types of blocks being learnt in the session .
+● Understand: - They will be introduced to the Python Programming Language
+
+- They will understand the use of Print command .
+- They will also understand different data types .
+● Apply: They will learn to apply and check the execution of the Print command.
+● Analyze: They will check their understanding by developing a code.
+● Create: They will create the code in EduBlocks
+
+Introduction to EDUBLOCKS
+EduBlocks is a visual block-based
+programming tool that helps teachers
+to introduce text-based programming
+languages, like Python, to children at
+an earlier age via a drag and drop
+programming experience
+
+The Interface
+About the Interface :
+
+4
+
+1- Script Area - We write the
+code here .
+2- Code in the syntax format
+will be displayed here .
+
+3 - Block Area - We can
+select and drag the required
+blocks from this area
+4- Click on the RUN Button
+to execute the written code
+
+1
+
+3
+
+2
+
+Why Learn On EduBlocks ?
+EduBlocks is the easiest way to make the transition from blocks to text, here's why:
+❑
+
+Text on the blocks: EduBlocks displays the Python text on the block so you can see exactly what you're coding.
+
+❑
+
+Python view: The main part of EduBlocks is the visual block editor but once you've completed your block code, you can
+switch straight to a Python editor.
+
+❑
+
+EduBlocks has many different “modes" that can be used with external hardware or just in the browser. Modes include:
+
+⮚
+⮚
+⮚
+⮚
+
+Python 3
+BBC micro:bit
+Raspberry Pi
+CircuitPython
+
+How To Access Edublocks ?
+1. Type : https://edublocks.org/ in the address bar of your Browser .
+2. Click on Start Coding
+3. Select Python3
+4. Start Coding
+Reference Video :
+
+python video- edublokcs.mp4
+
+Print() Function
+⮚ The print() function prints the specified message to the screen, or other standard output
+device.
+⮚ The message can be a string, or any other object, the object will be converted into a string
+before written to the screen.
+
+TASK 01:</>WRITE A PROGRAM TO PRINT YOUR NAME
+
+Program
+
+Connect print "Hello World" block and change
+the text to “your name”
+
+Program
+
+Output
+
+TASK 02:</>WRITE A PROGRAM TO PRINT YOUR NAME
+AND MESSAGE WITH A DELAY FUNCTION
+
+Delay Functions
+➢ import time:- When we say import time, we're telling the computer to use a special tool
+called "time" that helps us keep track of time. Just like you use a clock to know when it's
+time for different activities, the computer uses the "time" tool to know how much time
+has passed.
+
+➢ time.sleep():-This function is like telling the robot to take a little break or pause for a
+while. You can tell the robot to pause for a specific amount of time. For example, you
+can say, "Robot, pause for 5 seconds." The robot will wait for 5 seconds before doing
+the next thing you tell it to do.
+
+Program Step 1:-
+
+Add an time library from imports blocks
+
+Program Step 2:-
+
+Connect print "Hello World" block and change the text to “your name”
+
+Program Step 3:-
+
+Connect print “time.sleep()" block for delay 1 sec
+
+Program Step 4:-
+
+Connect print "Hello World" block and change the text to “message”
+
+Program
+
+Output
+
+ACTIVITY SHEETS
+
+Question:1
+What will the output be from the following code?
+print(Hello world!)
+A. Hello world!
+B. Syntax error
+C. hello
+D. print Hello world
+
+Question:2
+Print statement is
+
+A. Outputs the message on screen
+B. Gets the data from user
+C. A decision
+D. None of the above
+
+Question:3
+Which function is used to Print the data at run time?
+
+Question:4
+What is the function name to give a delay in the code?
+
+A. Print function
+B. Gets the data from user
+C. time.sleep
+D. None of the above
+
+Question:5
+What is the name to the library to give a delay in the code?
+
+A. import pygal
+B. import time
+C. time.sleep
+D. import graph
+
+Homework
+</>Write a program in Python
+to display your name , age
+and school name .
+

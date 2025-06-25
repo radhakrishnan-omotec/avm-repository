@@ -1,0 +1,73 @@
+SESSION - 12
+MADLIBS
+
+Learning Outcomes:
+Apply & Create
+• Learn to make Game.
+
+ACTIVITY 01:</> WRITE THE PROGRAM TO CREATE A GAME
+
+Program Step 1:-
+
+Program Step 2:-
+
+Program Step 3:-
+
+Program Step 4:-
+
+Program Step 5:-
+
+Program Step 6:-
+
+Program Step 7:-
+
+Program Step 8:-
+
+Program Step 9:-
+
+ACTIVITY SHEETS
+
+Question 1:
+Why we use “ ”?
+
+A. To indicate print value
+B. To indicate variable
+C. To indicate printing string
+D. None of these
+
+Question 2:
+How many arithmetic operations are there in python?
+
+A. 2
+B. 3
+C. 4
+D. 5
+
+Question 3:
+Why we use “/n”?
+
+A. To print new value
+B. To print on new line
+C. To create new string
+D. None of these
+
+Question 4:
+What is default data type of input block?
+
+A. int
+B. str
+C. boolean
+D. none of these
+
+Question 5:
+Do we need to convert input type for getting integer user
+input?
+
+A. Yes
+B. No
+
+Homework
+
+˃ Create another MadLibs game.
+
+

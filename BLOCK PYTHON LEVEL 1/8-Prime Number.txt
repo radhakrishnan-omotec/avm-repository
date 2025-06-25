@@ -1,0 +1,188 @@
+SESSION - 8
+PRIME NUMBER
+
+Learning Outcomes:
+●
+
+Remember: The students will list different types of blocks being learnt in the session .
+
+●
+
+Understand: - They will focus on understanding the FOR Loop
+
+●
+
+Apply: - They will apply FOR loop to check if a number is Prime or not
+- Will use a combination of IF-ELSE and FOR loop to execute programs .
+- Apply the use of BREAK statement
+
+●
+
+Analyze: They will check their understanding by developing a code.
+
+●
+
+Create: They will create the code in EduBlocks
+
+Apply & Create
+
+ACTIVITY DESCRIPTION
+
+• A 'for loop' is used for iterating over a sequence (that is either a list, a tuple, a
+dictionary, a set, or a string).
+• In this activity we are going to use for loop and else for loop also
+• Example:for i in range(2, num):
+if num % i == 0:
+print("It is not a prime Number")
+break
+
+else:
+print("It is a prime Number")
+
+Program Step 1:-
+
+Get a While loop to make the code run repeatedly
+
+Program Step 2:-
+
+Create a variable with name 'num' to store input from
+the user
+
+Program Step 3:-
+
+Add an int block to convert the input given by user
+into an integer
+
+Program Step 4:-
+
+Add an input block to the int block to get input from
+user
+
+Program Step 5:-
+
+Add an if condition from the logic
+
+Program Step 6:-
+
+Add a comparison block and change it to greater than
+block to check if the input given by the user is greater
+than 1
+
+Program Step 7:Get the num variable block and connect it to the left
+side of comparison block and write 1 on the right side
+
+Program Step 8:Get a for loop connect it inside the if
+condition and set the range to 2, num,
+so that it will check ever number
+between 2 to number given by user
+
+Program Step 9:-
+
+Program Step 10:-
+
+Add an if condition inside for loop
+
+Program Step 11:Add a comparison block to the if
+condition
+
+Program Step 12:-
+
+Program Step 13:-
+
+Get the addition block from math drawer and change
+it to modulus
+
+Program Step 14:Get the num
+variable block
+and connect it
+to the left side
+of modulus
+and write I on
+the right side,
+this will give us
+the remainder,
+if the
+remainder is
+equal to 0, it is
+not a prime
+number
+
+Program Step 15:Add a print "Hello World" block inside if
+condition, so that if the number given by user is
+divisible by any smaller number, then it will
+print "it is not a prime number"
+
+Program Step 16:-
+
+Program Step 17:Add a break block below print, so if the number
+is divisible, after printing it will break the loop
+
+Program Step 18:-
+
+Program Step 19:Connect an else block beneath for loop, if the
+number is not divisible by any number, then it
+should print it is a prime number
+
+Program Step 20:-
+
+Program Step 21:Add a print "Hello World" block inside else
+condition, so that if the number given by user is
+not divisible by any smaller number, then it will
+print "it is a prime number"
+
+Program Step 22:-
+
+Output
+
+ACTIVITY SHEETS
+
+Question 1:
+What does a for loop do?
+
+A. Iterates through a range/sequence
+B. Repeats the code for forever
+C. Repeats the code for limited time
+D. check the condition
+
+Question 2:
+What is the difference between while loop and for loop?
+
+A. While loop can run forever
+B. For loop can run forever
+C. while loop can iterates through a list
+D. For loop can compare two values
+
+Question 3:
+Which of the following statements is correct?
+
+A. for x in range x= 20:
+B. for x in range (0,20):
+C. for x in range (0,20)
+D. for x in range(“0,20”):
+
+Question 4:
+What is the output of the following code?
+
+A. 0,1
+B. 0
+C. 1
+D. 0 1
+
+for x in range(0,1):
+print (x)
+
+Question 5:
+What is the meaning of range(0,20) in codefor x in range(0,20):
+
+A. Iteration range of for loop
+B. index
+C. range for it condition
+D. variable
+
+Homework
+
+˃ Make a calculator that can do 10
+calculations using for loop
+˃ Use while loop and for loop in a single
+program
+

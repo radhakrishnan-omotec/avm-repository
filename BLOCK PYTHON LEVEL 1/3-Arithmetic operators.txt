@@ -1,0 +1,139 @@
+SESSION - 3
+ARITHMETIC OPERATOR
+
+Learning Outcomes:
+● Remember: The students will list different types of blocks being learnt in the session .
+● Understand: - They will focus on understanding different arithmetic operators
+● Apply: They will learn to apply and check the execution of the learnt operators
+● Analyze: They will check their understanding by developing a code to check calculations
+● Create: They will create the code in EduBlocks
+
+Remember &
+Understanding
+
+ARITHMETIC OPERATIONS
+
+❑ Operators are special symbols in Python that carry out arithmetic or logical computation
+❑ Arithmetic operators are used with numeric values to perform common mathematical
+operations:
+⮚ Addition
+⮚ Subtraction
+⮚ Multiplication
+⮚ Division
+⮚ Modules
+
+TYPES OF ARITHMETIC OPERATIONS
+
+Addition
+
+Subtracti
+on
+
+Division
+
+Multiplic
+ation
+
+Remainder
+
+Apply & Create
+
+TASK 01:</> WRITE A PROGRAM TO SUM OF TWO DIGIT
+NUMBER
+
+Program Step 1:-
+
+For printing output take a print variable block
+
+Program Step 2:-
+
+Stack the print “Addition” block inside the print
+variable block to print
+
+Program Step 3:The same way make the code
+for all the other three
+operations
+
+Output
+
+Apply & Create
+
+TASK 02:</> WRITE A PROGRAM SUM THE DIGITS OF THE
+GIVEN NUMBER
+
+Program Step 1:-
+
+Create a variable name it as "FIRST NUMBER"
+
+Program Step 2:-
+
+Create a one more variable for Second number and
+name it as “SECOND NUMBER"
+
+Program Step 3:Initialize the “First number" variable
+
+Program Step 4:-
+
+Store an int block to specify that input will be
+stored as an integer
+
+Program Step 5:-
+
+Add an input block to take input from the user
+
+Program Step 6:-
+
+Create another variable with name 'SECOND
+NUMBER' the same way to store the second number
+
+Program Step 7:Connect print"Hello World" block and change the text
+to "Sum is"
+
+Program Step 8:Stack the print variable block and change the variable
+to(First number + Second number), this block will add
+the values stored in variables First number and
+Second number and print the result
+
+Output
+
+ACTIVITY SHEETS
+
+Question:1
+Which python operator means ‘Remainder’?
+
+A. *
+B. /
+C. +
+D. %
+
+Question:2
+What is the output of the following code :
+
+A. 52
+B. 11
+C. 15
+D. 1.56
+
+Question:3
+Returns the remainder from division
+
+A. Variables
+B. print
+C. exponent
+D. modulus
+
+Question:4
+Which symbol is used in python to assign values to a
+variable?
+A. Equal to(=)
+B. Forward slash(\)
+C. Plus(+)
+D. Asterik(*)
+
+Question:5
+Which function is used to accept data as input at run time?
+
+Homework
+</>Make a program to find the
+square, cube of any given number
+

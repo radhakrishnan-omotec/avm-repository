@@ -1,0 +1,223 @@
+SESSION - 1
+REVISION OF PYTHON LEVEL 1
+
+2
+Learning Outcomes:
+
+Remember: The students will recall about variables, conditions, loops and lists.
+Understand: They will focus on understanding the above concepts. .
+
+Apply: They will learn to apply the concepts of variables, conditions , loops and lists in multiple
+
+programs
+Analyze: They will check their understanding by developing a code .
+
+Create: They will create the code in EduBlocks
+Apply &
+Create
+
+TASK 01:-
+
+</> WRITE A PROGRAM TO ASK HOW MANY
+STUDENTS ARE GOING TO ENTER THEIR
+MARKS FOR THE SUBJECT AND COMPARE
+THEIR GRADES
+
+Using FOR Loop:-
+1.Create 2 variables:-
+a.Number= number of students
+b.Marks= marks of the student
+2.Run a for loop for total number of students
+3.Compare the marks, and display grades.
+
+# Start code here
+
+print( “Invalid marks” }
+
+= int(input(
+
+for i in range( je
+
+= int(input(
+> @ and
+
+print ( )
+elif and
+
+print ( )
+elif
+
+print (
+else:
+
+print (
+
+Powered by ©)trinket
+
+How many students in the class are going to enter their marks 4
+Enter your marks 56
+
+Grade B
+
+Enter your marks 60
+
+Grade B
+
+Enter your marks 7
+
+Grade A
+
+Enter your marks 12
+
+Invalid marks
+
+OMO
+
+Apply &
+Create
+
+TASK 02:-
+
+</> WRITE ABOVE PROGRAM USING WHILE
+LOOP
+
+OM
+® at a HNOLOGY
+Ld
+
+# Start code here
+
+int( () imputt
+
+print( “invalid marks Jp
+
+printt "Thank you }
+
+= int(input{
+<
+
+= int(input(
+
+> and
+
+Apply &
+Create
+
+TASK 03:-
+
+</> WRITE A PROGRAM TO ENTER 10 STUDENT
+DATA-NAME,GRADES FOR MATH SUBJECT
+SAVE THE DATA FOR FURTHER ANALYSIS
+
+OMO
+TE C
+
+On My Own TECH GY
+
+# Start code here
+
+Students = =~ [| @ @ ]
+
+Grades *
+
+for i * mrangef
+
+Names + . append =~ ( Names *
+
+Grades * . append * ( Marks *
+
+printt = Names ~
+
+printt 3 Marks +
+
+OMO
+mE C
+
+On My Own TECHNOLOGY
+
+16):
+
+Enter your name")
+
+nput({ "Enter your marks
+( )
+print(
+
+print(
+
+ACTIVITY SHEETS
+
+Question 1:
+
+What is variable?
+
+To store value
+
+To Fix value
+
+To change value
+None of the above
+
+DOM>
+
+Question 2:
+
+What is Loop?
+
+A.
+B.
+C.
+D.
+
+To run code number of time
+
+To Change code number of time
+To Store code number of time
+None of the above
+
+Question 3:
+
+Which of the following is the correct instruction to store new
+data in the list?
+
+A.
+B.
+C.
+D.
+
+append
+insert
+extend
+add.last
+
+Question 4:
+
+What are different types of operators?
+
+A.
+B.
+C.
+D.
+
+Assignment operator
+Arithmetic operator
+less than
+
+greater than
+
+Question 5:
+
+What is the difference between AND and OR operators, to get
+true output?
+
+\
+
+both condition true in AND
+both condition true in OR
+both condition false in AND
+both condition false in OR
+
+INO >
+
+Homework
+

@@ -1,0 +1,317 @@
+SESSION - 9
+
+ENHANCED SNAKE AND
+LADDER GAME
+
+2
+
+Learning Outcomes:
+
+Remember: The students will recall about REPEAT loops , WHILE loops and FOR loops .
+Understand: They will focus on use of Multiple Nested Loops .
+
+Apply: They will learn to apply the concepts of NESTED LOOP , Time and Random Library ,
+
+to code and create a multiplayer game .
+Analyze: They will check their understanding by developing a code .
+
+Create: They will create the code in EduBlocks
+ACTIVITY DESCRIPTION
+
+Remember & Understanding
+
+What is happening in Game:
+
+1. Display the welcome message.
+* Create a code to add more difficulties in snake game
+* Multiplayer conditions
+2. Until one of the player wins do the following:
+2.1- Roll the dice.
+2.2- Move the player forward for the value got on the dice roll.
+
+2.3- If the player is on snake's head, move down to its tail.
+
+2.4- If the player is on ladder's bottom, take it to its top.
+
+Apply &
+Create
+
+TASK 01:-
+
+</> WRITE A PROGRAM TO MAKE SNAKE AND
+LADDER GAME
+
+Import required libraries
+Create dice, player1 and
+player 2 variables
+initialize all the variables
+Print welcome message
+Explain the rules of the
+game
+
+mport time
+
+limne.sieep{ 2 ]
+
+Explain the rules of the
+game
+
+Ask user to press enter to
+start the game
+
+On touching the snake, Player will be sent backwards
+
+2
+
+On touching the ladder, player will be taken forvard
+
+2
+
+Player who reaches position 100, will be the winner
+
+2
+
+Happy Playing!!!
+
+2
+
+Press Enter to start the game
+
+Add a while loop to run
+the code until there is a
+winner
+
+Print whos turn it is
+
+Ask the player to press
+enter to roll the dice
+Show the dice number
+Change the current
+position of the player by
+dice number
+
+Print the player position
+If player has reached 100,
+exit the loop and declare
+the winner
+
+while Quy :
+Player 1 turn
+Press Enter to start the roll the dice
+
+= fandom. randint(, [16 ] )
+
+Rolling the dice......
+
+dice +
+
+3
+
+You have got
+
+Check if the player has
+touched any position of
+multiple snakes
+
+“ity You have reached *
+
+Check if the player has
+touched any position of
+multiple snakes
+
+You have reached
+
+Check if the player has
+reached any Ladder
+
+Hite Woahll you have gotaladder Ji})
+Plw ff [63]
+Hoe "You have reached " 5. Sea gas)
+
+Ties Woahll you have gotaladder Jj)
+
+Pl + *
+
+POU "You have reached " 55 Saale Sas)
+
+OMO
+
+Check if the player has
+reached any Ladder
+
+Print MACE tm oe Pls |)
+
+Vien Player 2 turn je)
+
+TOO bee "Press Enter to start the roll the dice" J)
+
+Follow the same steps for
+player 2
+
+Player 2 turn
+
+Press Enter to start the roll the dice
+
+Rolling the dice......
+
+You have got
+
+You have reached
+
+Follow the same steps for
+player 2
+
+OOPS!! You have got bitten by a snake
+
+Follow the same steps for
+player 2
+
+Follow the same steps for
+player 2
+
+nv + @
+
+‘iiien "You have reached " |F
+
+Follow the same steps for
+player 2
+
+Woah!! you have got a ladder
+
+Woah!! you have got a ladder
+
+Follow the same steps for
+player 2
+
+You have reached (P2 » |
+
+Start Code Here
+time
+random
+
+1
+2
+3
+A
+5
+6
+a
+8
+9
+
+18 time. (2)
+19 print(
+
+20 time. (2)
+21 print( input
+
+22
+ao
+24
+25
+26
+aT
+278
+29
+308
+31
+32
+33
+34
+
+print(
+print(input¢
+dice = random.
+print(
+time. (3)
+print(
+Pi += dice
+print(
+
+PIL >= 100:
+
+prant¢
+
+Pa
+
+print (¢
+a
+praint¢
+P1 == 58:
+print (
+Pl = 28
+print (¢
+Pl == 76:
+print (
+P1l = 20
+print (¢
+P1 == OF:
+print (
+Pi = 57
+
+print ¢
+P21 == 11:
+
+print¢"Woah!! you have got a ladder")
+PA
+
+print¢"You have reached ",P1)
+elif P12 2A:
+print("Woah!! you have got a ladder")
+P1 = 5S
+prant("You have reached ",P1)
+
+elif Pa
+prant("wWoah!! you have got a ladder")
+Poa 4
+print(t"yYou have reached ",P1)
+elif Pi =
+print("woah!! you have got a ladder")
+Poa
+print(t"yYou have reached ",P1)
+praint("Player 2 turn™)
+
+print (input (
+dice = random.
+print (
+time. (3)
+print (
+P2 += dice
+print (
+
+P2 >= 100:
+
+print(
+
+P2 == 25:
+print(
+P2 =
+print(
+
+P2 == 58:
+print(
+
+print¢
+P2 = 28
+print¢
+
+P2 == 76:
+print¢
+P2 = 20)
+praint(¢
+
+P?2 == OF:
+
+print(
+
+P2 = 5/7
+print¢(
+
+P2 == 11:
+print¢
+
+P2 =
+print(
+
+Homework
+

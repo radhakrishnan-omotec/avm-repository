@@ -1,0 +1,122 @@
+SESSION - 7
+FOR LOOP
+
+Learning Outcomes:
+●
+
+Remember: The students will list different types of blocks being learnt in the session .
+
+●
+
+Understand: - They will focus on understanding the use and application of FOR Loop.
+
+●
+
+Apply: They will apply FOR Loop to work on different programs.
+
+●
+
+Analyze: They will check their understanding by developing a code.
+
+●
+
+Create: They will create the code in EduBlocks.
+
+FOR LOOP
+
+• A for loop is used for iterating over a sequence (that is either a list, a tuple, a
+dictionary, a set, or a string).
+• This is less like the for keyword in other programming languages, and works
+
+more like an iterator method as found in other object-orientated programming
+languages.
+
+• With the for loop we can execute a set of statements, once for each item in a
+list, tuple, set etc.
+• Example:for x in range(6):
+print(x)
+
+Apply & Create
+
+TASK 01:</> WRITE A PROGRAM TO PRINT THE HELLO
+WORLD 20 TIMES USING FOR LOOP
+
+Program Step 1:-
+
+Get a For Loop and set the range to 0,20
+
+Program Step 2:-
+
+Get print "Hello World" Block to print the name
+multiple times
+
+Output
+
+Apply & Create
+
+TASK 02:</>WRITE A PROGRAM TO PRINT HELLO
+WORLD ALONG WITH THE INDEX 20 TIMES
+
+Program Step 1:-
+
+Get a For Loop and set the range to 0,20
+
+Program Step 2:-
+
+Get print "Hello World" Block to print the name
+multiple times
+
+Output
+
+ACTIVITY SHEETS
+
+Question 1:
+What does a for loop do?
+
+A. Iterates through a range/sequence
+B. Repeats the code for forever
+C. Repeats the code for limited time
+D. check the condition
+
+Question 2:
+What is the difference between while loop and for loop?
+
+A. While loop can run forever
+B. For loop can run forever
+C. while loop can iterates through a list
+D. For loop can compare two values
+
+Question 3:
+Which of the following statements is correct?
+
+A. for x in range x= 20:
+B. for x in range (0,20):
+C. for x in range (0,20)
+D. for x in range(“0,20”):
+
+Question 4:
+What is the output of the following code?
+
+A. 0,1
+B. 0
+C. 1
+D. 0 1
+
+for x in range(0,1):
+print (x)
+
+Question 5:
+What is the meaning of range(0,20) in codefor x in range(0,20):
+
+A. Iteration range of for loop
+B. index
+C. range for it condition
+D. variable
+
+Homework
+
+˃ Make a calculator that can do 10
+calculations using for loop
+˃ Use while loop and for loop in a single
+program
+

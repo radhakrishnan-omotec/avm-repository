@@ -1,0 +1,140 @@
+SESSION - 10
+LISTS
+
+Learning Outcomes:
+●
+
+Remember: The students will list different aspects of a LIST creation and its execution .
+
+●
+
+Understand: They will focus on understanding the execution and applications of LISTS,
+
+●
+
+Apply: They will apply the concept of LIST to work on multiple programs
+
+●
+
+Analyze: They will check their understanding by developing the codes.
+
+●
+
+Create: They will create the code in EduBlocks
+
+Remember &
+Understanding
+
+LISTS
+
+Python offers a range of compound datatypes often referred to as sequences. List is
+one of the most frequently used and very versatile datatype used in Python.
+In Python programming, a list is created by placing all the items (elements) inside a
+square bracket [ ], separated by commas.
+It can have any number of items and they may be of different types (integer, float,
+string etc.).
+
+LIST INDEX
+List Index
+We can use the index operator [] to access an item in a list. Index starts from 0. So,
+a list having 5 elements will have index from 0 to 4.
+Trying to access an element other that this will raise an IndexError. The index must
+be an integer. We can't use float or other types; this will result into TypeError.
+
+Nested List: A list can even have another list as an item. This is called nested list
+
+INDEXING AND NEGATIVE INDEXING
+Negative indexing: Python allows negative indexing for its sequences. The index of -1
+refers to the last item, -2 to the second last item and so on.
++ INDEXING
+
+- INDEXING
+
+LIST OPERATIONS
+Append: Add the element in the end of the list
+
+Insert: Add the element at the specific position in the
+list, E.g. adding 5 at pose 2
+
+Extend: Add another list in the list
+
+Pop: Remove element from specific position
+
+Remove: Remove element from list at it’s 1st occurrence.
+
+Apply & Create
+
+ACTIVITY 01:</> WRITE THE PROGRAM TO CREATE A LIST
+AND TEST ALL FIVE OPERATIONS
+
+Program Step 1:-
+
+Program Step 2:-
+
+Program Step 3:-
+
+Program Step 4:-
+
+Program Step 5:-
+
+Program Step 6:-
+
+Program Step 7:-
+
+Program Step 8:-
+
+Program Step 9:-
+
+Program Step 10:-
+
+Program Step 11:-
+
+ACTIVITY SHEETS
+
+Question 1:
+What is list?
+
+A. Is set of variables
+B. Is set of integers
+C. Is set of string
+D. Is set of multiple data types
+
+Question 2:
+How many operations does list have?
+
+A. 4
+B. 5
+C. 6
+D. 7
+
+Question 3:
+“POP” operation need ____ to remove value.
+
+A. Name
+B. Variable Value
+C. Place value
+D. Index
+
+Question 4:
+Does “Remove” operation need index to remove value?
+
+A. Yes
+B. No
+
+Question 5:
+Can we subtract 2 strings?
+
+A. Yes
+B. No
+
+Homework
+
+˃ Create a list of your classmates
+
+according to roll no. then apply all the
+operations to take data out of it.
+
+˃Create a program to find out the evens
+and odds in the list
+
+

@@ -1,0 +1,222 @@
+SESSION - 2
+VARIABLES
+
+Learning Outcomes:
+● Remember: The students will list different types of blocks being learnt in the session .
+● Understand: - They will focus on understanding different data types & variables
+● Apply: They will learn to apply and check the execution of the learnt data types.
+● Analyze: They will check their understanding by developing a code.
+● Create: They will create the code in EduBlocks
+
+Remember & Understanding
+
+DATA TYPES
+
+Data types are like categories for information. Imagine you have a magic box, and this box
+can hold different types of things. Data types help us know what kind of things can go into
+the box.
+
+Data Types
+
+Numeric
+
+Character
+
+Logic
+
+NUMERIC DATA TYPES
+❑
+
+Numeric –
+⮚ only numeric numbers comes under this type 0 to 9
+⮚ it covers all the numeric values including negative number
+
+CHARACTER DATA TYPE
+❑
+
+Character or String⮚ All the alphabets A to Z, a to z and 0 to 9 including special characters comes in
+this category.
+⮚ Remember 0 to 9 in this category is different from numeric.
+⮚ this data type is represented by “” or ‘’ example - “omotec”,
+
+LOGICAL DATA TYPE
+❑
+
+Logical –
+⮚ this type of variable only have 2 elements 0 and 1.
+⮚ True and False
+
+VARIABLES
+• What is a variable?
+
+Think of a variable as a box or a jar with a label on it. You can put things inside this box and
+give it a name. The name is like the label on the jar, and it helps you remember what's inside.
+
+• What can you put in a variable?
+
+You can put different things in a variable. It could be a number, like how many candies you
+have. It could be a word, like your name. It could even be a whole list of things, like your
+favorite colors.
+
+VARIABLES
+Variable is a memory element in the programming. It is mainly used to store any value of any
+data type.
+⮚ It can Store only one value at a time
+⮚ Value can be of any data type
+⮚ A variable always have a name
+⮚ Examples:
+x=5
+y = "John”
+
+Apply & Create
+
+TASK 01:</> WRITE A PROGRAM TO PRINT A NUMERIC
+VALUE
+
+Program Step 1:-
+
+Create a variable name it as "A"
+
+Program Step 2:-
+
+Initialize the "A" variable
+
+Program Step 3:-
+
+Store an int block to specify that input will be stored value
+
+Program Step 4:-
+
+Connect print variable block for print the variable
+
+Program Step 5:-
+
+Add the ‘A' value block to print blocks
+
+Output
+
+Apply & Create
+
+TASK 02:</> WRITE A PROGRAM TO PRINT A
+CHARACTER
+
+Program Step 1:-
+
+Create a variable name it as "A"
+
+Program Step 2:-
+
+Initialize the "A" variable
+
+Program Step 3:-
+
+Store an int block to specify that input will be stored
+character with “double quotation marks”
+
+Program Step 4:-
+
+Connect print variable block for print the variable
+
+Program Step 5:-
+
+Add the ‘A' value block to print blocks
+
+Output
+
+Apply & Create
+
+TASK 03:</> WRITE A PROGRAM TO CHANGE THE DATA
+TYPE OF THE VARIABLE
+
+INTEGER
+❑
+
+They are often called just integers or ints, are positive or negative whole numbers with
+no decimal point.
+
+Program
+
+Note: Only the numeric value will change to integer.
+we can not change an alphabet into integer
+
+Output
+
+Apply & Create
+
+TASK 04:</> WRITE A PROGRAM TO CHANGE THE DATA
+TYPE OF THE VARIABLE
+
+Program
+
+This command allows you to take input and data from
+the user to perform certain operation during output
+
+Output
+
+Apply & Create
+
+TASK 05:</> WRITE A PROGRAM TO DISPLAY YOUR
+DETAILS LIKE NAME,AGE,SCHOOL NAME IN
+THREE DIFFERENT LINES
+
+Program
+
+Output
+
+Apply & Create
+
+TASK 06:</> WRITE A PROGRAM TO SAVE THE NUMERIC
+INPUT VALUE FROM USER TO A VARIABLE.
+
+Program
+
+Output
+
+ACTIVITY SHEETS
+
+Question 1:
+Which of the following statements assigns the value 100 to the
+variable x in Python:
+A. Let x=100
+B. X<<100
+C. x=100
+D. X=!100
+
+Question 2:
+Which of the following are valid Python variable names:
+
+A. return
+B. ver.1.3
+C. route466
+D. 4square
+
+Question 3: Look at the following code: What type of data is
+stored in the variable age?
+age = 23
+A. int
+B. float
+C. double
+D. name
+
+Question 4:
+If I want to store my height in a variable, which of the following
+would be a good variable name in best practice?
+A. inch
+B. Height
+C. adxxcc
+D. number
+
+Question 5: Look at the following code:
+age = "23"
+age = int(age) What does the int() function do to the data in my
+variable?
+A. Does nothing
+B. Changes the string to float
+C. Changes the number to string
+D. Changes the string to integer
+
+Homework
+</>Make a Program to store the values
+in a variable and try to perform
+arithmetic operations on it
+

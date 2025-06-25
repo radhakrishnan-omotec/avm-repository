@@ -1,0 +1,138 @@
+SESSION - 11
+MEMORY GAME
+
+2
+Learning Outcomes:
+
+Remember: The students will recall the concepts learnt .
+
+Understand: They will focus on understanding the logics to build the game “Memory
+
+Game”
+
+Apply: They will learn to apply the concepts of IF-ELSE , import libraries, create user-inputs,
+
+create list , using loops .
+Analyze: They will check their understanding by developing a code .
+
+Create: They will create the code in EduBlocks
+TASK 01:-
+
+</> WRITE A CODE TO CREATE A MEMORY
+GAME
+
+Import turtle library
+
+set it to turtle
+
+Take a while loop
+
+create the variable a and ask the
+user how many digits you want to
+guess
+
+Create the empty list
+
+Take a for loop in range of 0, a
+
+use the list method append to
+generate random numbers from 0-9
+
+# Start code here
+import time
+
+import random
+
+while :
+
+Cosa
+
+|
+random.randint( [0,9] ) |
+
+e Print “Memories the number you
+have only 5 sec”
+
+eprint the list list *
+
+time sleep of 5 sec to memorize
+
+e use for loop in range of 0-30
+
+Print enter number with the str
+
+Use the if condition to check the list
+and if this is it matches then print
+correct doing well.
+
+Or else print “wrong the sequence
+was” and break the loop
+
+for @ in range 0,0] ):
+
+rite CORRECT, Doing well Ji)
+
+fie WORNG, The sequence was |g)
+
+break
+
+import
+import
+while :
+input (
+int(a)
+=]
+
+for i in range(@,a):
+
+(
+
+print(
+print( )
+(5)
+for i in range(@,36):
+print(™")
+for i in range(@,a):
+print(
+= int(input(""))
+
+in range(@,
+
+print("enter number ™ + str(it1))
+
+= int(input(""))
+
+== [i]:
+print("CORRECT, Doing well")
+
+print("WORNG, The sequence was")
+
+pr i nt (
+print("")
+
+Powered by @)trinket
+
+how many digits you want to guess: 4
+Memories the number, You have only 5S seconds
+[7, 2, oe 6]
+
+enter number 1
+
+7
+CORRECT, Doing well
+enter number 2
+
+2
+CORRECT, Doing well
+enter number 3
+
+5
+CORRECT, Doing well
+enter number 4
+
+6
+CORRECT, Doing well
+[7, 2, 5, 6]
+
+Homework
+

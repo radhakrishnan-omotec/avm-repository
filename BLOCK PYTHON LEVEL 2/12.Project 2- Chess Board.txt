@@ -1,0 +1,70 @@
+SESSION - 12
+CHESS BOARD
+
+2
+Learning Outcomes:
+
+Remember: The students will recall the concepts learnt .
+
+Understand: They will focus on understanding the logics to build the game “Drawing a
+
+chess board “
+
+Apply: They will learn to apply the concepts of import libraries, create lists, using turtle to
+
+draw,using loops.
+Analyze: They will check their understanding by developing a code .
+
+Create: They will create the code in EduBlocks
+TASK 01:-
+
+</> WRITE A CODE TO CREATE A CHESS
+BOARD
+
+Import turtle library
+
+set it to turtle
+
+create a list of black and white
+create 2 variables x,y
+
+# Start code here
+
+from turtle mport *
+
+Use for loop in range of 8
+use the pen up block
+
+use goto block
+
+create a variable “v”
+
+use pen down block
+
+e take a for loop
+e give the if else condition
+
+De
+
+e Again repeat the for loop in range of
+5
+
+e take the if condition and later end
+the fill.
+
+ce:
+
+rom turtle import * t.fillcolor(s[v])
+() t.begin_fill{)
+["White", "Black" ] for n
+
+155 t. forward (44)
+if n 4:
+a (8): t. right (90)
+penup() t-end_fill()
+goto(-x,y)
+a 2
+
+pendown()
+
+

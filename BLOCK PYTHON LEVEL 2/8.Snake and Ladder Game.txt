@@ -1,0 +1,280 @@
+SESSION - 8
+SNAKE AND LADDER GAME
+
+2
+Learning Outcomes:
+
+Remember: The students will recall the concepts learnt .
+
+Understand: They will focus on understanding the logics to build the game “Snake and
+
+Ladder “
+Apply: They will learn to apply the concepts of IF-ELSE , import libraries, create user-inputs
+Analyze: They will check their understanding by developing a code .
+
+Create: They will create the code in EduBlocks
+ACTIVITY DESCRIPTION
+
+Remember & Understanding
+
+What is happening in Game:
+
+1. Display the welcome message.
+2. Until one of the player wins do the following:
+2.1- Roll the dice.
+2.2- Move the player forward for the value got on the dice roll.
+
+2.3- If the player is on snake's head, move down to its tail.
+
+2.4- If the player is on ladder's bottom, take it to its top.
+
+Apply &
+Create
+
+TASK 01:-
+
+</> WRITE A PROGRAM TO MAKE SNAKE AND
+LADDER GAME
+
+* import time and import
+random block
+
+¢ Take print block and print
+message “Welcome to
+snake and ladder game”
+
+# Start code here
+
+mmiport time
+
+om Port random
+
+print( “Welcome to snake and ladder game. )
+
+* Create a variable of
+
+position which is equal to
+0.
+
+¢ Take a While loop with
+condition if position is
+less than 100 then print
+“press enter to roll the
+dice.
+
+# Start code here
+
+import time
+
+import random
+
+print “Welcome to snake and ladder game" J
+Position * = * a |
+while Position * <7 & =
+
+SMR ak Press Enter to roll the dice JN)
+
+* Create a variable of dice
+to pick the random
+number from 1 to 6.
+Print the number on dice.
+
+while Position * a7 [ 100 | :
+TT LG@meTT aia Press Enter to rollthe dice JOD)
+
+fime.sleep({ tt] )
+
+Dice ¥ =F random.randint{ () & C 6 | )
+ea “Number on Dice is “+str(Dice) 9p)
+
+° The new position is equal
+to the position + Dice .
+
+¢ Then print the “your
+Position is”
+
+Position * = * Position * +
+
+int ;
+
+° Take a if condition where
+position is equal to 98.
+
+¢ Print “Snake bit”
+
+¢ And position is equal to
+2.
+
+if
+
+Position *
+
+printt @ty aia
+
+Position *
+
+°* Similarly take 4 if
+statements for the snake
+bite at different positions.
+
+“Your position is “+striPosition)
+
+“Your position is “+str(Fosition)
+
+Snake bit
+
+Position * = * 9 |
+
+"Your position is “+str(Position)
+
+* Now take 5 elif
+statement for getting
+ladder and printing
+new positions.
+
+Your position is “+str(Position) “Your position is "+str(Position)
+
+* Atthe end print you won
+the game.
+
+alif Position *
+
+pi
+Postion * = TF faz}
+pi
+
+print
+
+import time
+
+import random
+
+Position )
+while Position 160:
+
+time.sleep(1)
+Dice random.randint(1, 6)
+("Num
+
+Position
+
+(Dice))
+
+(Position))
+
+(Position))
+
+(Position))
+
+OMO
+mE C
+
+On My Own TECHNOLOGY
+
+print
+print {
+prin
+
+print
+
+print
+
+print("Your position
+
+tay my
+
+print("You won the game")
+
+Powered by @} trinket
+
+Welcome to snake and ladder game
+Press Enter to roll the dice
+
+Number on Dice is 2
+Your position is 2
+Press Enter to roll the dice
+
+Number on Dice is 6
+
+Your position is &
+
+got a Ladder
+
+Your position is &8
+
+Press Enter to roll the dice Jj
+
+ACTIVITY SHEETS
+
+Question 1:
+
+For Condition checking which block we use?
+
+A.
+B.
+C.
+D.
+
+Let x=100
+X<<100
+x=100
+X=!100
+
+Question 2:
+
+Which of the following are valid Python variable names:
+
+A.
+B.
+C.
+D.
+
+return
+ver.1.3
+route466
+Asquare
+
+Question 3: Look at the following code: What type of data is
+
+stored in the variable age?
+age = 23
+
+int
+float
+double
+name
+
+TOM>
+
+Question 4:
+
+If | want to store my height in a variable, which of the following
+would be a good variable name in best practice?
+
+A.
+B.
+C.
+D.
+
+inch
+Height
+adxxcc
+number
+
+Question 5: Look at the following code:
+
+age = "93"
+
+age = int(age) What does the int() function do to the data in my
+\ variable?
+
+A. Does nothing
+
+B. Changes the string to float
+
+C. Changes the number to string
+
+D. Changes the string to integer
+
+Homework
+

@@ -1,0 +1,165 @@
+SESSION - 11
+VOTING MACHINE
+
+Learning Outcomes:
+●
+●
+
+Remember: The students will list different ways in which we can store, update values in a
+
+variable .
+Understand: - They will focus on understanding the execution of the program by the use of
+IF-ELSE STRUCTURE
+- They will understand how to compare and perform operations on stored values .
+
+●
+
+Apply: They will apply the concepts learnt to the code of Voting Machine Program .
+
+●
+
+Analyze: They will check their understanding by developing the codes
+
+●
+
+Create: They will create the code in EduBlocks
+
+Remember &
+Understanding
+
+ACTIVITY DESCRIPTION
+
+In this activity we are creating a code for voting machine.
+There will be 2 candidates and number of voters will be user input.
+
+After voting compare votes and declare winner.
+
+Apply & Create
+
+ACTIVITY 01:</> WRITE THE PROGRAM TO CREATE A LIST
+AND TEST ALL FIVE OPERATIONS
+
+Program Step 1:-
+
+Program Step 2:-
+
+Program Step 3:-
+
+Program Step 4:-
+
+Program Step 5:-
+
+Program Step 6:-
+
+Program Step 7:-
+
+Program Step 8:-
+
+Program Step 9:-
+
+Program Step 10:-
+
+Program Step 11:-
+
+Program Step 12:-
+
+Program Step 13:-
+
+Program Step 14:-
+
+Program Step 15:-
+
+Program Step 16:-
+
+Program Step 17:-
+
+Program Step 18:-
+
+Program Step 1:-
+
+Program Step 19:-
+
+Program Step 20:-
+
+Program Step 21:-
+
+Program Step 22:-
+
+Program Step 23:-
+
+Program Step 24:-
+
+Program Step 25:-
+
+Program Step 26:-
+
+Program Step 27:-
+
+Program Step 28:-
+
+Program Step 29:-
+
+Program Step 30:-
+
+Program Step 31:-
+
+Program Step 32:-
+
+Program Step 33:-
+
+Program Step 34:-
+
+Program Step 35:-
+
+Program Step 36:-
+
+Output
+
+ACTIVITY SHEETS
+
+Question 1:
+How many operations we can do on variable?
+
+A. 1
+B. 3
+C. 2
+D. 4
+
+Question 2:
+Which is the symbol of decrement operation?
+
+A. ==
+B. -=
+C. +=
+D. =-
+
+Question 3:
+Which is the symbol of Increment operation?
+
+A. ==
+B. +=
+C. =+
+D. ++
+
+Question 4:
+Name the operation “=!”
+
+A. not equal to
+B. equal to
+C. equal
+D. none of these
+
+Question 5:
+Name the operation “>=”
+
+A. not equal
+B. equal to
+C. greater than
+D. lesser than
+
+Homework
+
+˃ Create a program to vote between 4
+members.
+
+

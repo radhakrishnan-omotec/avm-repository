@@ -1,0 +1,181 @@
+SESSION - 6
+WHILE LOOP
+
+Learning Outcomes:
+●
+
+Remember: The students will list different types of blocks being learnt in the session .
+
+●
+
+Understand: - They will focus on understanding the WHILE LOOP
+
+●
+
+Apply: They will apply While loop to build different codes
+
+●
+
+Analyze: They will check their understanding by developing a code of multiple programs.
+
+●
+
+Create: They will create the code in EduBlocks
+
+Remember & Understanding
+
+WHILE LOOP
+
+• While Loop is mainly used to run the code for either unlimited times or
+until the condition is matched
+• For example if we want to make a code to print one number or a name for
+100 time
+
+Apply & Create
+
+TASK 01:</> WRITE A PROGRAM TO PRINT THE NAME
+USING WHILE LOOP
+
+Program Step 1:-
+
+Get a while loop from loops drawer
+
+Program Step 2:-
+
+Get print "Hello World" Block to print the name
+multiple times
+
+Output
+
+Apply & Create
+
+TASK 02:WRITE A PROGRAM WHERE A = 20 and B = 5 ,
+PRINT A IS BIGGER UNTIL A BECOMES
+LESSER THAN B AND DECREASE A EVERY
+SECOND
+
+Program Step 1:-
+
+Create a variable with name 'A'
+
+Program Step 2:-
+
+Initialize the A variable
+
+Program Step 3:-
+
+The same way create another variable with
+name 'B', and as mentioned in the question,
+initialize A = 20 and B = 5
+
+Program Step 4:Get print "Hello World" block and write "A is "
+to show the value of A
+
+Program Step 5:Get print variable block and write A on it to
+print the value of variable A
+
+Program Step 6:Follow the same procedure to print the value
+of variable B
+
+Program Step 7:-
+
+Add a While loop to the code to make it run
+multiple times
+
+Program Step 8:-
+
+Add a print "Hello World" block inside while
+loop and print "A is bigger"
+
+Program Step 9:-
+
+Get a variable initialize block and change the
+equals to into minus equals to, This means
+whatever is the value of variable subtract
+some number from it
+
+Program Step 10:-
+
+Add an if condition which will
+compare the values of A and B
+
+Program Step 11:-
+
+Get a comparison block and change
+it to less than equals to, to
+compare the values
+
+Program Step 12:-
+
+Write A on the left side and B on
+the right side on the comparison
+block to compare if the value of A is
+smaller or equals to B
+
+Program Step 13:-
+
+Add a print "Hello World" block
+inside if condition so, If A == B,
+Print Both are equal
+
+Program Step 13:-
+
+Full Program
+
+Syntax Program
+
+Output
+
+ACTIVITY SHEETS
+
+Question 1:
+What is a programming loop?
+
+A. Check the given condition
+B. Assigns the loop
+C. import libraries
+D. repeats the code
+
+Question 2:
+What is the meaning of statement:
+while True:
+A. Repeat the code 5 times
+B. Repeat the code forever
+C. Assign the value
+D. Check the condition
+
+Question 3:
+What does the following code do:
+A-=10
+
+A. Assigns 10 value to A
+B. Add 10 to value A
+C. Substract 10 from the value A
+D. Compare if A is 10
+
+Question 4:
+What is the function of break statement?
+
+A. Break the loop
+B. Break the condition
+C. Remove the value from the variable
+D. Add a delay to the code
+
+Question 5:
+What is the difference between print (“Hello World”) and
+print(X)
+
+A. Data type is different
+B. condition is different
+C. different loops
+D. no difference
+
+Homework
+</>Make a calculator using while loop
+Print Prime Numbers up to 100
+</>Make a program to print your name
+for 100 times and also print the number in
+front of it
+</>Write a program to Make AP Series
+and GP Series
+

@@ -1,0 +1,426 @@
+SESSION - 3
+SHAPES
+
+2
+Learning Outcomes:
+
+Remember: The students will recall about the libraries learnt.
+
+Understand: They will focus on understanding the Turtle Library and the Coordinate
+
+system .
+Apply: They will learn to apply Turtle Library for drawing shapes.
+Analyze: They will check their understanding by developing a code .
+
+Create: They will create the code in EduBlocks
+Remember & Understanding TU RTLE BLOCK
+
+@ “Turtle” is a Python feature like a drawing board, which lets us command a turtle to
+draw all over it!
+
+@ itis a pre-installed Python library that enables users to create pictures and shapes by
+providing them with a virtual canvas.
+
+@ The onscreen pen that you use for drawing is called the turtle and this is what gives the
+library its name.
+
+Turtle of the Python World!
+
+Create fun drawings and shapes on your screen
+with just some simple steps!
+
+TURTLE METHOD
+
+@ We can use functions like turtle.forward(...) and turtle.right(...) which can move
+the turtle around. Commonly used turtle methods are :
+
+Metis [Parmeter [esto
+
+Creates and returns a new turtle
+
+Turtle() None object
+
+forward() amount eee by the
+backward smount ee easels)
+right() angle Turns the turtle clockwise
+
+left) angle counterclockwise
+
+TURTLE METHOD
+
+Metiod  Leamete [esto
+
+penup() None
+pendown() None
+up() None
+down() None
+color() Color name
+fillcolor() Color name
+
+Picks up the turtle’s Pen
+
+Puts down the turtle’s Pen
+
+Picks up the turtle’s Pen
+
+Puts down the turtle’s Pen
+
+Changes the color of the turtle’s pen
+
+Changes the color of the turtle will
+use to fill a polygon
+
+TURTLE METHOD
+
+Metiod  Leamete [esto
+
+heading() None
+position() None
+goto() X,Y
+
+begin_fill() None
+end_fill() None
+dot() None
+
+Returns the current heading
+
+Returns the current position
+
+Move the turtle to position x,y
+
+Remember the starting point fora
+filled polygon
+
+Close the polygon and fill with the
+current fill color
+
+Leave the dot at the current position
+
+RR |
+
+DRAWING SHAPES
+
+Shapes are also known as geometric shapes and figures made up of fixed lines or curves.
+
+Shapes
+
+diameand
+(rhombus)
+
+COORDINATE SYSTEMS
+
+A coordinate system is a method for identifying the location of a point
+
+Coordinate System
+y-axis a
+a
+34+
+1 L¢-3, 1.5) ii
+Pe nn ee ae 1.5)
++
+\ H { f { t t t al
+a ee a 2 a 4 x-axis
+sql origin
+-2-
+TEN 2,3)
+6
+
+PLOTTING A TURTLE
+
+Plotting using Turtle
+
+oO
+
+1@)
+
+To make use of the turtle methods and
+
+functionalities, we need to import turtle.
+
+The 4 steps for executing a turtle
+
+program is as follows:-
+
+Import the turtle module
+Create a turtle to control.
+
+Draw around using the turtle
+methods.
+
+Run turtle.done().
+
+Text
+
+a
+screen = = Screem{)
+Logic
+reen * setupt Se 1:20 1080 JB}
+6 Lists
+Loops.
+
+Definitions
+
+# ‘Turtle
+0 Graphs
+xg | Random
+
+turte = = Turte)
+
+~ boot OGD. @. @
+
+. forward * ‘®>
+
+-drcle{ o “)
+
+spent D>
+
+goto ©. eo )
+
+Apply &
+Create
+
+TASK 01:-
+
+</> WRITE A CODE TO CREATE A SQUARE
+SHAPE
+
+Code
+
+(=) Variables
+
+statements
+
+from turtle import *
+
+1.Import turtle library
+Math
+
+B
+
+On My Own TECHNOLOGY
+
+wwuS
+
+Te Text |
+Ve] Math from turtle import *
+turtie * = Turtle)
+Logic
+
+Lists MOR 1920 Im 1020 Wo)
+
+Loops .bgcolort © . Qo. oe y
+
+Definitions
+
+g turtle
+
+turtle * .crndet t so ] i)
+| Graphs
+
+turtle * | forward * ( [20 } }
+
+Random turtle * -speed[ 10] )
+
+1.Import turtle library
+On My Own TECHNOLOGY
+
+Code
+from turtie import *
+
+Lists
+
+Loops nian @ >
+
+Definitions
+
+@ ‘Turtle
+
+-pencolor( eg. oO. oO )
+re) Graphs
+
+color( ON 2:; Mn o mo
+
+ture * pen up* 0
+
+turtle ¥
+
+Random fieotor( ©) L255 ) c to) 0 to] B
+
+. 1.Assign turtle shape
+
+GB} rrcessin ——_) L_} 2.Assign turtle color to red
+
+Requests 3.Pen up for not drawing
+4.Pen down for drawing
+
+OM
+
+T CE
+
+On My Own TECHNOLOGY
+
+[| ssi tie
+Program Step 3
+
+Code
+
+# Start code here
+
+1.Run a loop for 4 times, to move
+forward and take turn
+
+import
+= Turtle)
+= Screen()
+(8,
+(
+
+0)
+0)
+n range(4)-
+(
+(90)
+
+Turtle()
+
+Screen( )
+
+(a, @, @)
+(“turtle”)
+
+(255, 6, 6)
+
+Apply &
+Create
+
+TASK 02:-
+
+</> WRITE A CODE TO DRAW A STAR SHAPE
+
+1.Import turtle library
+
+2.Call the turtle
+
+3.Call the screen
+
+4.Set Screen background color to Black:
+(R,G,B)= (0,0,0)
+
+5.Stop drawing using pen up
+
+6.Set turtle shape of your drawing tool
+7.Set turtle color to Red: (R,G,B)=
+(255,0,0)
+
+8.Set turtle speed to 100 (drawing speed)
+9.Start drawing using pen up
+
+Shape{” ture = “}
+
+colort (©) 255 : © c o )
+speed Glow }
+
+pen dawn * ()
+
+eC
+LiPLOgraM Step 2a]
+
+1.Run a loop for 5 times, as star shape
+have 5 sides
+
+2.Draw straight and take a turn
+
+3.After that stop drawing by using pen up
+4.Make your turtle move to 50,50 position
+
+from turtle import *
+
+turtle *
+
+screen =
+
+screen = bgcolor{ ©) o c oO. o )
+
+turtle +
+
+turtle * shape(" turtle * “}
+
+tute * colort © 255 ] D o c Fo] i)
+
+mime + speed{ Gime }
+
+tre * pen down (0
+
+for i+ imrange{ 8 x
+turtle * _ forward T a 100} )
+trie * _ right * (‘@
+
+OMO
+mE C
+
+On My Own TECHNOLOGY
+
+in range(5):
+(100)
+(144)
+
+ACTIVITY SHEETS
+
+Question 1:
+
+what is turtle tool?
+
+draw tool
+Gaming tool
+Writing tool
+
+IND
+
+Animation tool
+
+Question 2:-
+
+which of the following instruction is correct for setting screen color to
+BLack?
+
+A.
+B.
+C.
+D.
+
+screen.bgcolor(255, 0, 0)
+screen.bgcolor(0, 0, 0)
+screen.color(0, 0, 0)
+screen.bgcolor(255, 255, 255)
+
+Question 3:-
+
+What is the use of goto() instruction?
+
+A.
+B.
+C.
+D.
+
+takes turtle to specific position
+takes turtle to starting position
+takes turtle to random position
+takes turtle to ending position
+
+Question 4:-
+
+Find the error in the Square shape code shown below-
+
+for @ in range( rs | ):
+turtles . forward + TZ 20D
+
+Question 5:
+Can we change turtle to any other form?
+
+\
+
+A. Yes
+B. No
+
+Homework
+

@@ -1,0 +1,184 @@
+SESSION - 6
+ROCK PAPER AND SCISSOR
+
+2
+Learning Outcomes:
+
+Remember: The students will recall about REPEAT loops , WHILE loops and FOR loops.
+
+Understand: They will focus on understanding NESTED LOOPS & NESTED LOGICAL
+OPERATORS
+
+Apply: They will learn to apply the concept of NESTED LOOP to code a game - Rock-Paper-
+
+Scissors that gives a condition based win to the player.
+Analyze: They will check their understanding by developing a code .
+
+Create: They will create the code in EduBlocks
+ACTIVITY DESCRIPTION
+
+Remember & Understanding
+° ntional Rock-Paper-Scissor.
+
+® User will have to play against the computer, When user starts the game
+a random number will be generated which will determine the option.
+
+® Same way computer’s choice will be generated randomly and then will
+
+be compared and winner will be displayed.
+
+Apply &
+Create
+
+TASK 01:-
+
+</> WRITE A CODE TO CREATE A ROCK PAPER
+SCISSOR GAME
+
+mE C
+
+° Import the random and time
+libraries
+* Print the welcome message # Start code here
+
+© Add a delay of 0.5 seconds
+
+import random
+
+import time
+
+print( ‘Hello, Welcome to Rock,Paper and Scissor game. > )
+time.sleep( 0.5 ] )
+
+Print the rules with delay of 0.5 seconds between each message
+
+0.5
+
+( “You will be playing against the computer. j
+
+0.5 |
+
+‘ “Rules are same: Rock crushes the scissor,Scissors crushes the paper,Paper crushes the rock. 2
+
+* Variable ‘options’ will choose
+
+PROBA a)
+
+® Add while loop to repeat the
+
+game
+° Ask user to press enter to while GB:
+start
+
+pin input »
+a random number in range 1-
+
+3 Options ¥ = 7 | random-randint( o@.8>
+
+Choice will be printed with =
+delay of 2 seconds print )
+
+OMO
+iy Ee G
+
+* Condition to check what
+user has got
+
+° If the random number
+generated is ‘1’, User has
+got ‘Rock’ User Choice *
+
+OMO
+* Condition to check what user cit option > == @ Z
+
+has got
+
+¢ If the random number
+generated is ‘2’, User has got
+‘Paper’
+
+® If the random number
+generated is ‘3’, User has got
+
+‘Scissor User Choice» -~ GERD
+pine
+
+mE C
+
+* Options variable again to
+choose for computer
+
+print "Computer has choosen J
+time-_sleep( ge )
+Options = =~  random.randint( ©) & : es )
+
+® Same conditions to be
+followed as user choice for
+Computer choice
+
+* Conditions to compare and check the winner
+
+loa ed" ed oe todas 06 vs Qty won ve GD
+|
+pores
+
+tosses JERE) Sons J Re) Oe” JER | mn: JI oon: JR Sow”
+
+PROBA a)
+me E ¢
+
+Announce the winner
+
+« CID >
+
+import
+
+import
+
+print(
+
+print(
+print (
+while
+
+print (input (
+
+print(™
+
+User Choice = "Scissor"
+print("Scissor")
+
+print("Computer has choosen”)
+
+time. sleep(2)
+
+Options = random.randint(1, 3)
+
+if Options == 1:
+Comps_choice = "Rock™
+print("Rock")
+
+elif Options == 2:
+Comps choice = "Paper"
+print("Paper")
+
+elif Options == 3:
+Comps_choice = "Scissor"
+print("Scissor")
+
+time. sleep(2)
+
+if Comps choice == "Scissor" and User Choice == “Paper” or Comps_choice == “Paper and User Choice == “Rock or Comps_choice == “Rock”
+print("Print Computer wins")
+elif User_Choice == "Scissor" and Comps_choice == “Paper” or User_Choice == "Paper and Comps_choice == "Rock or User_Choice == "Rock"
+print("Print User wins")
+else:
+print("Its a Tie")
+print("Thank you ")
+Homework
+
+</>
+p> 9
+
+“=
+

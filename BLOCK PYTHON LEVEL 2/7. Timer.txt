@@ -1,0 +1,325 @@
+SESSION - 7
+TIMER
+
+2
+Learning Outcomes:
+
+Remember: The students will recall about previous concepts - libraries .
+Understand: They will focus on understanding more about Math Library , Floor
+Division
+
+Apply: They will learn to apply the Math and Time Library to build code for Digital
+Timer.
+
+Analyze: They will check their understanding by developing a code .
+
+Create: They will create the code in EduBlocks
+
+Remember & Understanding
+
+°* To access math library import
+math from the Imports .
+
+¢ Then access all the blocks of the
+math functions
+
+math.asinh( [7] )
+
+math _atan{ & }
+
+math atan?( oo. oe )
+mathatanht QEED )
+math.ced( @® }
+math.cos{ © }
+
+math cosh J
+| Requests @
+
+Apply &
+Create
+
+TASK 01:-
+
+</> WRITE A PROGRAM TO PRINT HOURS,
+MINUTES AND SECONDS
+
+Code
+
+(=| Variables
+
+* import Time and Math.
+
+import math
+
+import time
+
+Code
+
+import
+
+import
+
+* Create the variable of sec, min and Hour.
+
+Code
+
+Imports
+
+Variables import
+import
+= int({input(
+(4 Statements
+Text
+
+math.hypot( @) 10] ' Ps | }
+mathiogt @) f 2] }
+
+using the math.floor block from the math library
+
+Lists
+
+* take the if statement from
+the condition with
+condition where sec
+lesser than 60
+
+import math
+
+import time
+
+secv => (int @ (input GEE ) 2
+
+min*® = * math-floor(
+
+Hour =* miath.floor{
+
+soc *
+
+min *
+
+1° @>
+
+i*@>
+
+Code
+
+= int(input(“Inputs in seconds™))
+
+/ 66)
+
+/ 68)
+
+Inputs in seconds
+
+Code
+
+¢ use the for loop
+in the range from
+0 to sec
+
+import math
+import time
+math.floor( min sec ( (
+
+min2 math. floor({sec
+sec sec 6@
+
+Hour = math.floor(min2
+
+if sec 68:
+
+for i (@, sec):
+
+» sec)
+time. sleep
+
+sec 1
+
+OMO
+mE C
+
+On My Own TECHNOLOGY
+
+. Loops
+Text
+while True
+Math
+Logic
+
+for i inranget eo@ }:
+Lists
+¢ Repeat the for
+loop loop as
+above used in if
+conditions.
+
+#$tart code here
+import
+import
+
+= int(input(
+
+for i in range(@,
+
+print(
+
+13, while a
+
+if >
+
+for i in range(®,
+
+print(
+
+° Repeat the
+same
+condition
+using the elif
+block
+
+for i in range(@,
+
+print (
+
+elif
+
+for in range(6,
+
+print (
+import math
+import time
+sec ( ("Input in
+
+min? math.floor(sec
+
+sec sec 68
+Hour = math.floor(min2? / 6@)
+if sec 68:
+
+for i
+
+time sleep
+sec sec
+min2 1
+while min2 @:
+if min? 68:
+min2 1
+sec 59
+for i (@, sec):
+
+1 \
+,5ec)
+
+(min, '
+time.sleep(1
+sec sec 1
+
+elif min2 8:
+
+Sec sec
+elif min2 8:
+sec 59
+
+for i (8, sec):
+
+(min,":'
+time. sleep(1)
+sec sec 1
+min? 8
+
+("Time
+
+,sec)
+
+Powered by @trinket
+
+Input in seconds 10
+<built-in function min> :
+ébuilt-in function min> :
+<built-in function min? :
+ébuilt-in function mins :
+ébuilt-in function min> :
+ébuilt-in function min> :
+built-in function min? :
+<built-in function min> :
+<built-in function min> :
+<built-in function min> :
+Time is up
+
+[2 09 oo Gal Ga Se) G3) te) (I
+
+ACTIVITY SHEETS
+
+Question 1:
+
+Which of the following statements assigns the value 100 to the
+variable x in Python:
+
+A.
+B.
+C.
+D.
+
+Let x=100
+X<<100
+x=100
+X=!100
+
+Question 2:
+
+Which of the following are valid Python variable names:
+
+A.
+B.
+C.
+D.
+
+return
+ver.1.3
+route466
+Asquare
+
+Question 3: Look at the following code: What type of data is
+
+stored in the variable age?
+age = 23
+
+int
+float
+double
+name
+
+TOM>
+
+Question 4:
+
+If | want to store my height in a variable, which of the following
+would be a good variable name in best practice?
+
+A.
+B.
+C.
+D.
+
+inch
+Height
+adxxcc
+number
+
+Question 5: Look at the following code:
+
+age = "93"
+
+age = int(age) What does the int() function do to the data in my
+\ variable?
+
+A. Does nothing
+
+B. Changes the string to float
+
+C. Changes the number to string
+
+D. Changes the string to integer
+
+Homework
+

@@ -1,0 +1,146 @@
+SESSION - 5
+CALCULATOR
+
+Learning Outcomes:
+● Remember: The students will list different types of blocks being learnt in the session .
+● Understand: - They will focus on understanding the conditional statement - IF-ELSE
+- They will also learn more about arithmetic operators
+
+● Apply: They will apply If-else structure to build a calculator
+● Analyze: They will check their understanding by developing a code.
+● Create: They will create the code in EduBlocks
+
+Remember &
+Understanding
+
+CALCULATOR
+
+• In this activity we have to design a basic calculator using basic arithmetic
+operations.
+
+• Make a program to add, subtract, multiply, divide and find reminder
+• Let the student try to make code by himself/herself.
+• Take user input as 1st and second number
+• Select an option what to do Add, Sub, Mul, Div
+
+Apply & Create
+
+TASK 01:</> WRITE A PROGRAM TO MAKE A
+CALCULATOR
+
+Program Step 1:-
+
+Create a variable and name it as ‘A’
+
+Program Step 2:-
+
+Initialize the "A" variable
+
+Program Step 3:-
+
+Store an int block to specify that input will be
+stored as an integer
+
+Program Step 4:-
+
+Add an input block to take input from the user
+
+Program Step 5:-
+
+Create another variable with name 'B' the same way to store the second number
+
+Program Step 6:Add a print "Hello World" block and change the
+"Hello World" with the operation names that
+calculator can perform
+
+Program Step 7:Create another variable 'I' to store the operation
+user wants the calculator to perform
+
+Program Step 8:Add an input block to take input from the user
+for the operation user wants to do
+
+Program Step 9:Add if statement from the logic block
+
+Program Step 10:-
+
+Program Step 11:Add equal to from the logic block
+
+Program Step 12:-
+
+Program Step 13:-
+
+Add the 'I' value block from the variables to the left of the comparison block to compare
+the input given by user
+
+Program Step 14:Take the print “Hello World” block from the
+statement
+
+Program Step 15:-
+
+Program Step 16:Take the int block from the statement
+
+Program Step 17:-
+
+Program Step 18:The same
+way make
+the code for
+all the
+other three
+operations
+
+Program Step 19:Take the Else block from the logic
+
+Program Step 20:-
+
+Program Step :-
+
+Output
+
+ACTIVITY SHEETS
+
+Question 1:
+If x be the input given by user, how do we compare it with an
+operation?
+A. x=”add”
+B. x==”add”
+C. x==add
+D. x=add
+
+Question 2:
+What does an int block do?
+
+A. Check if the value is number
+B. check if the value is decimal
+C. convert the value to integer
+D. convert the value to float
+
+Question 3:
+How do we add values of two variables?
+
+A. A+=B
+B. A+B
+C. A++
+D. A=+
+
+Question 4:
+Which statement is correct?
+
+A. if x=10:
+B. if x==10:
+C. if x+=10:
+D. if x>=10:
+
+Question 5:
+If we want the code to behave in a way that if one condition
+isn’t correct it should follow the other command, what do we
+do?
+A. add an else condition
+B. add an if else condition
+C. add elif condition
+D. add while loop
+
+Homework
+
+˃ Code a calculator to operate three or
+more values
+
