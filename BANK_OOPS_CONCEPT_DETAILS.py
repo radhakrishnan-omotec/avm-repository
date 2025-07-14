@@ -21,7 +21,7 @@ EXTRA) Association/Composition: Bank class manages multiple accounts in a collec
 
 class Account:
     def __init__(self, account_number, owner, initial_balance=0):
-        # Private attributes (by convention, use underscore)
+        # Protected attributes (by convention, use underscore)
         self._account_number = account_number
         self._owner = owner
         self._balance = initial_balance
